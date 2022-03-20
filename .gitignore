@@ -1,0 +1,4 @@
+__pycache__/
+raspberry_tree/
+raspberrypi_tree_tests/etc/
+pi.py
